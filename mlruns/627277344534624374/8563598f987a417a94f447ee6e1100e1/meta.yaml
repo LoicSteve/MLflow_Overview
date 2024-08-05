@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/loicsteve/Desktop/MLops/MLflow_Overview/mlruns/627277344534624374/8563598f987a417a94f447ee6e1100e1/artifacts
+end_time: 1722870543466
+entry_point_name: ''
+experiment_id: '627277344534624374'
+lifecycle_stage: active
+run_id: 8563598f987a417a94f447ee6e1100e1
+run_name: dazzling-shrimp-920
+run_uuid: 8563598f987a417a94f447ee6e1100e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722870542846
+status: 3
+tags: []
+user_id: loicsteve

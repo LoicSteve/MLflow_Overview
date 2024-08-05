@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8364051eb3384673a13cdbba703e33ff/artifacts
+end_time: 1722851987163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8364051eb3384673a13cdbba703e33ff
+run_name: industrious-mink-217
+run_uuid: 8364051eb3384673a13cdbba703e33ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722851987119
+status: 3
+tags: []
+user_id: loicsteve

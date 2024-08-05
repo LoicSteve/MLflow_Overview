@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8ac47e9af39d4c2ea812bec7ab45d655/artifacts
+end_time: 1722852141114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ac47e9af39d4c2ea812bec7ab45d655
+run_name: able-shrimp-765
+run_uuid: 8ac47e9af39d4c2ea812bec7ab45d655
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722852141033
+status: 3
+tags: []
+user_id: loicsteve

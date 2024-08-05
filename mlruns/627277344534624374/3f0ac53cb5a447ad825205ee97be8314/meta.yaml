@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/loicsteve/Desktop/MLops/MLflow_Overview/mlruns/627277344534624374/3f0ac53cb5a447ad825205ee97be8314/artifacts
+end_time: 1722870321600
+entry_point_name: ''
+experiment_id: '627277344534624374'
+lifecycle_stage: active
+run_id: 3f0ac53cb5a447ad825205ee97be8314
+run_name: adaptable-asp-75
+run_uuid: 3f0ac53cb5a447ad825205ee97be8314
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722870321513
+status: 3
+tags: []
+user_id: loicsteve

@@ -1,0 +1,6 @@
+artifact_location: file:///Users/loicsteve/Desktop/MLops/MLflow_Overview/mlruns/627277344534624374
+creation_time: 1722870153499
+experiment_id: '627277344534624374'
+last_update_time: 1722870153499
+lifecycle_stage: active
+name: produce-metrics
