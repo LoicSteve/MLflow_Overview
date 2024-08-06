@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e55cf1e8fba54336b121f86be918b497/artifacts
+end_time: 1722947647593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e55cf1e8fba54336b121f86be918b497
+run_name: painted-whale-613
+run_uuid: e55cf1e8fba54336b121f86be918b497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722947632968
+status: 4
+tags: []
+user_id: loicsteve

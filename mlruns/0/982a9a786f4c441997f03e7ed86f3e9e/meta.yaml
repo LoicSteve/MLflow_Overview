@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/982a9a786f4c441997f03e7ed86f3e9e/artifacts
+end_time: 1722947394960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 982a9a786f4c441997f03e7ed86f3e9e
+run_name: gifted-stag-913
+run_uuid: 982a9a786f4c441997f03e7ed86f3e9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722947173527
+status: 4
+tags: []
+user_id: loicsteve

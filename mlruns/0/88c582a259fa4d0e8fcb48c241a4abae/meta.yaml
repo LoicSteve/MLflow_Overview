@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/88c582a259fa4d0e8fcb48c241a4abae/artifacts
+end_time: 1722947505956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88c582a259fa4d0e8fcb48c241a4abae
+run_name: exultant-auk-33
+run_uuid: 88c582a259fa4d0e8fcb48c241a4abae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722947458818
+status: 4
+tags: []
+user_id: loicsteve
